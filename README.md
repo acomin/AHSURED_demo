@@ -5,7 +5,7 @@ The *objective* of the following **checklist** is to produce a set of **reportin
 
 The *rationale* behind it is that by moving towards more output−based standards for surveillance, and allowing greater flexibility in surveillance design, there will be an increased need for transparency about design features as well as how the activities are actually implemented.  
 
-[HOME](Home.md). 
+[HOME](/AHSURED_demo/Home.md). 
 
 ## Welcome to GitHub Pages
 
