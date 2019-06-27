@@ -11,5 +11,6 @@ markdown: Markdown
 theme: minima
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 #theme: jekyll-theme-minimal
