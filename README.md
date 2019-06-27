@@ -1,5 +1,3 @@
-![Logo](img/AHSURED.png)
-
 ![Title](img/AHSURED_text.png)
 
 
