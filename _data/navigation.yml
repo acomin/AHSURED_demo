@@ -3,9 +3,9 @@ docs:
   - title: Getting Started
     children:
       - title: "Home"
-        url: Home
+        url: /Home
       - title: "Structure"
-        url: /docs/structure/
+        url: Structure/
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
