@@ -1,4 +1,4 @@
-![Title](img/AHSURED_title.png)
+![Title](img/AHSURED_text.png)
 
 
 The *objective* of the following **checklist** is to produce a set of **reporting guidelines** to facilitate consistent and credible reporting of surveillance activities and their outcomes.
