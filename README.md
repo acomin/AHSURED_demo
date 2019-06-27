@@ -36,5 +36,5 @@ This is an example of how the architecture of surveillace can be described:
 :arrow_right: [**Go to Instructions**](https://github.com/SVA-SE/AHSURED/wiki/Instructions)
 
 
-[HOME](AHSURED_demo/Home.md). 
+[HOME](https://github.com/acomin/AHSURED_demo/blob/master/Home.md). 
 
