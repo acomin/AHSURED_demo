@@ -1,13 +1,13 @@
 # basic options
-title: Your awesome title
-author: GitHub User
+title: AHSURED
+author: acomin
 email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+description: Animal Health Surveillance Reporting Guidelines
+twitter_username: none
+github_username:  none
 
 # Build settings
-markdown: kramdown
+markdown: Markdown
 theme: minima
 
 #theme: jekyll-theme-minimal
