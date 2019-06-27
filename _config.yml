@@ -9,5 +9,7 @@ github_username:  none
 # Build settings
 markdown: Markdown
 theme: minima
+plugins:
+  - jemoji
 
 #theme: jekyll-theme-minimal
