@@ -1,3 +1,9 @@
+![Title](https://github.com/SVA-SE/AHSURED/blob/master/img/AHSURED_title.png)
+
+The *objective* of the following **checklist** is to produce a set of **reporting guidelines** to facilitate consistent and credible reporting of surveillance activities and their outcomes.
+
+The *rationale* behind it is that by moving towards more output−based standards for surveillance, and allowing greater flexibility in surveillance design, there will be an increased need for transparency about design features as well as how the activities are actually implemented.  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/acomin/AHSURED_demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
