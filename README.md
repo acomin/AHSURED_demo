@@ -1,4 +1,4 @@
-Welcome to ![Logo](img/AHSURED.png)
+![Logo](img/AHSURED.png)
 
 ![Title](img/AHSURED_text.png)
 
